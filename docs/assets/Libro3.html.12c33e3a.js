@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72c045fc","path":"/guide/Libro3.html","title":"LIBRO TERCERO : EL PROCESO COM\xDAN","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/Libro3.md"}');export{e as data};

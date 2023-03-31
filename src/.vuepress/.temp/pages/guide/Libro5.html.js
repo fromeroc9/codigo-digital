@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7629f73a\",\"path\":\"/guide/Libro5.html\",\"title\":\"LIBRO QUINTO : LOS PROCESOS ESPECIALES\",\"lang\":\"es-ES\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"guide/Libro5.md\"}")

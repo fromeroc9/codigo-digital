@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f5694be","path":"/guide/Libro1.html","title":"LIBRO PRIMERO : DISPOSICIONES GENERALES","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/Libro1.md"}');export{e as data};

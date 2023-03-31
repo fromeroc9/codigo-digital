@@ -1,0 +1,9 @@
+body {
+    zoom: 90%;
+}
+
+.page .theme-default-content, 
+.page-meta,
+.page-nav {
+    max-width: initial !important;
+}

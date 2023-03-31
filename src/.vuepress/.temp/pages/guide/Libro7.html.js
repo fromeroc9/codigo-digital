@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-7993a878\",\"path\":\"/guide/Libro7.html\",\"title\":\"LIBRO SÉPTIMO : LA COOPERACIÓN JUDICIAL INTERNACIONAL\",\"lang\":\"es-ES\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"guide/Libro7.md\"}")

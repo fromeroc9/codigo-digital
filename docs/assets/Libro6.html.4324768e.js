@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77decfd9","path":"/guide/Libro6.html","title":"LIBRO SEXTO : LA EJECUCI\xD3N Y LAS COSTAS","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/Libro6.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7993a878","path":"/guide/Libro7.html","title":"LIBRO S\xC9PTIMO : LA COOPERACI\xD3N JUDICIAL INTERNACIONAL","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/Libro7.md"}');export{e as data};

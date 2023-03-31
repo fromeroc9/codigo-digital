@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/codigo-digital/\",\"lang\":\"es-ES\",\"title\":\"Código Digital\",\"description\":\"Documentación de diferentes código legal del perú\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/codigo-digital/images/favicon.png\"}],[\"link\",{\"rel\":\"stylesheet\",\"href\":\"/codigo-digital/styles/index.css\"}]],\"locales\":{}}")
